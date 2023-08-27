@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Decent-Act-International/reactjs-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Decent-Act-International/reactjs-portfolio/static/js/main.cd8bdd51.js",
+    "index.html": "/Decent-Act-International/reactjs-portfolio/index.html",
+    "main.bf538fe7.css.map": "/Decent-Act-International/reactjs-portfolio/static/css/main.bf538fe7.css.map",
+    "main.cd8bdd51.js.map": "/Decent-Act-International/reactjs-portfolio/static/js/main.cd8bdd51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.cd8bdd51.js"
+  ]
+}
